@@ -1,0 +1,14 @@
+{
+  "name": "getASIN Demo",
+  "description": "Copy ASIN to clipboard",
+  "version": "1.1",
+  "permissions": ["tabs"],
+  "icons": { "400": "91Pz43D6_400x400.png"},
+  "browser_action": {
+    "default_title": "getASIN",
+    "default_icon": "91Pz43D6_400x400.png",
+    "default_popup": "popup.html"
+
+  },
+  "manifest_version": 2
+}
